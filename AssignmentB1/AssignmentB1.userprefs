@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts_Animation/BotControlScript.cs">
+    <Files>
+      <File FileName="Assets/keyboardcontrol.cs" Line="22" Column="21" />
+      <File FileName="Assets/Scripts_Animation/BotControlScript.cs" Line="127" Column="5" />
+      <File FileName="../../../../Dropbox/Rolling Ball Game/Assets/scripts/SinglePlayer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts_Animation/AnimTriggers.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/NewBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Nav_Mesh_Obstacle.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/click_then_move.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts_Animation/Samoflange.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
