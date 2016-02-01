@@ -5,3 +5,6 @@ Ciera’s Notes from 27.Jan
 3. added a box collider to one of the roman houses, so it cannot be walked through with the camera
 4. deleted SO many unnecessary files, it had several complex scenes in there that we did not need! 
 5. i am having trouble adding the sphere collider on top of the FPS & the perspective of the camera (our guy must be a giant! so I was trying to make the FPS shorter. 
+
+Notes from 31.Jan
+1. added box colliders to the rest of the buildings
