@@ -8,3 +8,9 @@ Ciera’s Notes from 27.Jan
 
 Notes from 31.Jan
 1. added box colliders to the rest of the buildings
+
+
+Notes from Feb 2: Ciera jones
+
+- added a street, 
+- fixed tiling on roofs.
