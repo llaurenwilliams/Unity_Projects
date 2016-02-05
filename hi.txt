@@ -1,4 +1,4 @@
-﻿Ciera’s Notes from 27.Jan
+Ciera’s Notes from 27.Jan
 1. entered building about the origin better, and set the ground to 0 on the y axis (Unity Convention
 2. added directional light for shadows. (makes it so we can tell if the buildings are floating or not)
 ** ground is at y 0, so building are at 0, items can be at 0.5 on the y axis
@@ -12,9 +12,15 @@ Notes from 31.Jan
 
 Notes from Feb 2: Ciera jones
 
-- added a street, 
+ added a street, 
 - fixed tiling on roofs.
 
 rock detail 7
 
-and rock detail 8
+and rock detail 8’
+
+
+Notes from Feb 4.
+- discovered how to use the terrain tool
+- had way too much fun
+- starting to look more like Petra now (yay) 
