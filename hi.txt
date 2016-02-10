@@ -1,26 +1,22 @@
-Ciera’s Notes from 27.Jan
+Jan 27: Ciera
 1. entered building about the origin better, and set the ground to 0 on the y axis (Unity Convention
 2. added directional light for shadows. (makes it so we can tell if the buildings are floating or not)
 ** ground is at y 0, so building are at 0, items can be at 0.5 on the y axis
 3. added a box collider to one of the roman houses, so it cannot be walked through with the camera
 4. deleted SO many unnecessary files, it had several complex scenes in there that we did not need! 
 5. i am having trouble adding the sphere collider on top of the FPS & the perspective of the camera (our guy must be a giant! so I was trying to make the FPS shorter. 
-
-Notes from 31.Jan
+ 
+Jan 31: Ciera 
 1. added box colliders to the rest of the buildings
 
+Feb 2: Ciera 
+1. added a street, 
+2. fixed tiling on roofs.
 
-Notes from Feb 2: Ciera jones
+Feb 4: Lauren
+1. Correct rock textures rock detail 7 & rock detail 8’
 
- added a street, 
-- fixed tiling on roofs.
-
-rock detail 7
-
-and rock detail 8’
-
-
-Notes from Feb 4.
-- discovered how to use the terrain tool
-- had way too much fun
-- starting to look more like Petra now (yay) 
+Feb 10: Ciera
+1. discovered how to use the terrain tool
+2. had way too much fun
+3. starting to look more like Petra now (yay) 
